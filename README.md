@@ -25,12 +25,11 @@
 - **UserNotifications**: Настройка локальных напоминаний.
 - **Environment & State**: Управление глобальным состоянием приложения.
 
-## 📱 Скриншоты
-
+## 📸 Скриншоты
 
 | Все контакты | Фильтрация | Мой QR-код |
 | :---: | :---: | :---: |
-| ![Everyone](Screenshots/Hot Prospects_1.png) | ![Filtered](Screenshots/Hot Prospects_2.png) | ![QR Code](Screenshots/Hot Prospects_3.png) |
+| ![Everyone](Screenshots/Hot%20Prospects_1.png) | ![Filtered](Screenshots/Hot%20Prospects_2.png) | ![QR Code](Screenshots/Hot%20Prospects_3.png) |
 
 ## 🚀 Установка
 
